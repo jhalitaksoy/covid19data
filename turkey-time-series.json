@@ -1,0 +1,52 @@
+{
+    "Türkiye": [
+      {
+        "date": "2020-3-11",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-3-12",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-3-13",
+        "confirmed": 5,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-3-14",
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-3-15",
+        "confirmed": 18,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-3-16",
+        "confirmed": 47,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-3-17",
+        "confirmed": 98,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-3-18",
+        "confirmed": 191,
+        "deaths": 2,
+        "recovered": 0
+      }
+    ]
+  }
