@@ -83,6 +83,12 @@
         "confirmed": 1872,
         "deaths": 44,
         "recovered": 0
+      },
+      {
+        "date": "2020-3-25",
+        "confirmed": 2433,
+        "deaths": 59,
+        "recovered": 0
       }
     ]
   }
